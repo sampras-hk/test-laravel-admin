@@ -2,8 +2,10 @@
 
 ## Setup Commands
 
+```bash
 php artisan admin:install
 php artisan db:seed
+```
 
 ## Project Files
 
